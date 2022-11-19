@@ -1,0 +1,58 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>welcome to FYBCA Science</title>
+</head>
+<body bgcolor="Aqua">
+<marquee bgcolor="lightpink" width="100%" direction="right" height="30px">
+This is a sample scrolling text that has scrolls in the right direction.
+</marquee>
+<b>Good Afternoon Everyone</b> 
+<h1> <center>Internet and Web:</center></h1>
+<h2> <center>What is HTML</center> </h2>
+<h3> HTML program </h3>
+<h4> Heading 4 </h4>
+<p> <b>HTML</b> stands for <b>Hyper Text Markup Language</b>
+<small>Hyper Text Markup Language</small> is a <u>simple markup language</u> used to create platform-independent hypertext 
+documents on the World Wide Web.<br>
+Most <b>hypertext</b> documents on the web are written in <b>HTML</b>. <b>HTML</b> is the standard markup <sub>language</sub> for 
+creating Web pages.<br>
+<ul type = "circle">
+<li><i><b>HTML</b> describes the structure of <big>Web pages</big> using markup.</i><br></li>
+<li><i><b>HTML</b> elements are the building blocks of <b>HTML</b> pages.</i><br></li>
+<li><i><b>HTML</b> elements are represented by <sup>tags</sup>.</i><br></li>
+<li><b>HTML</b> tags label pieces of content such as <big>"heading", "paragraph", "table",</big> and so on. </p></li>
+<ol	>
+<li>BCA</li>
+<li>MCA</li>
+<li>B.Sc</li>
+</ol>
+
+<P><a href="https://www.w3schools.com/html/html_intro.asp">Click Here</a></P>
+<a href="https://www.youtube.com/" target="_blank">
+<img src="YouTube.png" width=10% height=10%>
+
+
+<p><h2>Table</h2></p>
+<table border="3">
+<tr>
+     <th>Book Name</th>
+     <th colspan="3">Author</th>
+</tr>
+<tr>
+     <td>Let us C</td>
+     <td>Kanitkar</td>
+     <td>abc</td>
+     <td>XYZ</td>
+</tr>
+<tr>
+     <td>UNIX</td>
+     <td>Batch</td>
+</tr>      
+<tr>
+      <td>Wings of fire</td>
+      <td> A. P. J. Abdul Kalam</td>
+      <td> Arun Tiwari</td>
+
+</body>
+</html>
